@@ -113,7 +113,7 @@ manim calculus_encryption_animation_technical.py CalculusEncryptionAnimation --f
 ### Encryption Strength
 The animation demonstrates how the security of calculus-based encryption relies on:
 
-1. **Mathematical Complexity**: ``Algorithm = lim(n→∞) Σ(1/k!) · (∂ᵏf/∂xᵏ)²`
+1. **Mathematical Complexity**: ``Algorithm = lim(n→∞) Σ(1/k!) · (∂ᵏf/∂xᵏ)²``
 2. **Computational Difficulty**: Inverse operations require significant processing
 3. **Key Space Size**: Infinite possibilities through continuous functions
 4. **Non-linear Transformations**: Complex mathematical relationships
